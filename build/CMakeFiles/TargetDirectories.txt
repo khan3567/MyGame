@@ -1,0 +1,3 @@
+D:/university/anp/MyGameProject/build/CMakeFiles/MyGameExecutable.dir
+D:/university/anp/MyGameProject/build/CMakeFiles/edit_cache.dir
+D:/university/anp/MyGameProject/build/CMakeFiles/rebuild_cache.dir

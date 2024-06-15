@@ -1,0 +1,1 @@
+ "D:/university/anp/MyGameProject/lib/libsfiles/sfml-graphics.lib" "D:/university/anp/MyGameProject/lib/libsfiles/sfml-window.lib" "D:/university/anp/MyGameProject/lib/libsfiles/sfml-system.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
